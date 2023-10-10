@@ -10,3 +10,9 @@ A crypto currency and news API fetching project using <br/> redux-toolkit to cre
 5. chart.js react-chartjs-2 (for graphs nd chart)
 6. millify
 7. moment
+
+### Deployment
+1. npm run build 
+2. Using Netlify free react app host 
+
+Live server:- https://coininium-crypto.netlify.app
